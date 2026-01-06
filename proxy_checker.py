@@ -5,7 +5,6 @@ import time
 from typing import List, Optional, Set
 
 # --- Configuration ---
-# API URLs provided by the user
 API_URLS = [
     "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&country=ir&proxy_format=protocolipport&format=text",
     "https://openproxylist.xyz/http.txt?country=IR&referrer=grok.com"
